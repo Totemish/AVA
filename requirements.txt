@@ -1,0 +1,7 @@
+sounddevice
+numpy
+piper-tts
+faster-whisper
+chromadb
+requests
+sentence-transformers
